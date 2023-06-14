@@ -1,0 +1,50 @@
+show the first five lines of the file:
+findstr /n . yourfile.txt  | findstr "^[0-5]:"
+
+create a directory 
+mkdir directory_name
+
+create a file in the directory:
+type file.txt
+or 
+touch file.txt
+
+
+clear the whole screen:
+type cls
+
+awk:
+instead of cut command we often used to 
+the awk command to  select coloums.
+sytax of awk:
+ awk '{print $1,$2}' summer.txt
+
+you can shain any commands like bellow:
+ awk '{print $1}' summer.txt | grep -v 172 | tail -n 1
+this  is the chain of three commands.
+
+
+How can i sort lines of text
+use this to sort the lines of text
+awk '{print $1}' summer.txt | grep -v 150 | sort -n
+
+Remove duplicate lines from the file and then sort in assending order:
+ awk '{print $1}' summer.txt | grep -v 172 | sort -n | uniq -c
+
+To find the fewest line file in multiple files:
+just type bellow pipline in order to get the result.
+ wc -l * | grep -v total | sort -n | head -n 1
+
+
+How can I stop running programm:
+just type ctl+c 
+
+How to copy files into the home directory from the sub directory:
+just use the following syntax:
+cp file_name ~
+
+
+Save the recent applied  command into the file:
+just type bellow:
+history | tail -n 10 > file_name
+

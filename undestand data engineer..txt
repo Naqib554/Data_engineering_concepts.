@@ -1,0 +1,48 @@
+
+
+
+
+----------Data engirneer role:
+data engineer enable data scintist to work .
+Data engineers build pipelines on the cloud to ingest, transform, 
+and store big data securely and efficiently.
+generally having analysis in the cloud make it easier for team to collaborate 
+because you aren't passing files from one machine to the next.
+
+
+ETL is the framework for data piplines.
+Data pipelines are used to process data.
+when you're saving something, you're just storing it in the next 
+step in the pipeline.
+
+
+upgrade: mean enhace something.simple word add the feature in app.
+update :to make changes or modification or improve current state of sumething.
+optimize: mean to make better or improve performance of something.
+
+Streaming:
+streaming refers to the continuous and real-time transmission of data records as 
+they are updated or generated
+
+Batches:
+Batches refer to groups of data that are processed together at specific intervals.
+
+parallel computing or processing:
+parellel processing is a type of modern data processing tool and it divide the task
+into the sub tasks and then distribute all these sub taks into the several computers.
+parallel computing is not suited to every situation. It has its limitations, and sometimes
+ it's just unnecessary.it will not alway make thing faster.
+parallel computing is used to provide extra processing power.
+parallel computing can be used to optimize memory usage.
+
+
+cluod computing for data processing:
+-->server on the cloud.
+-->we pay rent for the server.
+-->don't need to space.
+-->use just the resuouces we need.
+-->when we need them.
+-->and also closer the server is to the user the better.
+-->To serve a global customer base, we need servers all over the world.
+-->cloud computing doesn't reduce all kinds of risk.
+

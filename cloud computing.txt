@@ -1,0 +1,11 @@
+---------------------->  about cloud computing:
+A cloud solution is not always better than an on-premise solution.
+You can build and deploy custom AI models in the cloud.
+A server is a powerful computer that you can connect into remotely
+An internet connection is necessary to access cloud services.
+you have access to additional computer power instantly.
+
+--------------------------------------------------------------
+--------------------->the community cloud model
+The community model sounds like a better fit for
+easier sharing of data, while maintaining exclusive use of the infrastructure.

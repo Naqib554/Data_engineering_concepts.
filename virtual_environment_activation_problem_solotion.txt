@@ -1,0 +1,5 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUse
+
+sometime the virtual environment doesn't activate by the window powershell then just copy the above commmand
+and run the window powershell and solove the problen after this activate the environment.
+.\data\scripts\activate
