@@ -1,0 +1,7 @@
+>How to generate ssh key:
+a)$ ssh-keygen -t ed25519 -C "naqibhangu1@gmail.com"
+b)$ eval "$(ssh-agent -s)"
+c)$ ssh-add ~/.ssh/id_ed25519
+By the above three commands you can generate the ssh key and then copy the key by the 
+bellow command.
+d)$ clip < ~/.ssh/id_ed25519.pub

@@ -140,13 +140,7 @@ https://www.datacamp.com/cheat-sheet/git-cheat-sheet
 
 
 
-->How to generate ssh key:
-a)$ ssh-keygen -t ed25519 -C "naqibhangu1@gmail.com"
-b)$ eval "$(ssh-agent -s)"
-c)$ ssh-add ~/.ssh/id_ed25519
-the above three commands you can generate the ssh key and then copy the 
-bellow command.
-d)$ clip < ~/.ssh/id_ed25519.pub
+
 
 42)push the project to the github.com.
 git push remote_name branch_name
