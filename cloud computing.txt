@@ -9,3 +9,8 @@ you have access to additional computer power instantly.
 --------------------->the community cloud model
 The community model sounds like a better fit for
 easier sharing of data, while maintaining exclusive use of the infrastructure.
+
+Authentication:
+like proving who you are before getting access to something.
+example: when you  access the website but before accessing you must submit your email and password 
+to confirm that you are the right person for the account.
